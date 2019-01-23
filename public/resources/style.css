@@ -1,0 +1,19 @@
+
+
+body{
+    background: #e0e0e0;
+}
+
+
+.mycontainer{
+
+    padding: 10px;
+}
+
+.card-container{
+    margin-top: 15px;
+}
+
+.card-container > .card:hover{
+    box-shadow: 1px 1px 8px 3px #8080806b;
+}
